@@ -115,5 +115,4 @@ A simple Python application that calculates your age, total days lived, and the 
 ---
 
 Author
-
-Ayush Singh
+Ayush Singh https://github.com/ayush893singh
