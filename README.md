@@ -4,7 +4,7 @@ A simple Python project that calculates your current age, the total number of da
 
 ---
 
-Features
+# Features
 
 - Enter your birth date (day, month, and year)
 - Calculate your current age
@@ -15,14 +15,14 @@ Features
 
 ---
 
-Technologies Used
+# Technologies Used
 
 - Python
 - "datetime" Module
 
 ---
 
-Concepts Used
+# Concepts Used
 
 This project uses:
 
@@ -36,7 +36,7 @@ This project uses:
 
 ---
 
-Installation
+# Installation
 
 1. Install Python on your computer.
 2. Download or clone this repository.
@@ -44,13 +44,13 @@ Installation
 
 ---
 
-How to Run
+# How to Run
 
 python main.py
 
 ---
 
-How It Works
+# How It Works
 
 1. Enter your birth day.
 2. Enter your birth month.
@@ -64,7 +64,7 @@ How It Works
 
 ---
 
-Example Output
+# Example Output
 
 ===== Birthday Countdown =====
 
@@ -108,11 +108,11 @@ birthday-countdown-python
 
 ---
 
-Repository Description
+# Repository Description
 
 A simple Python application that calculates your age, total days lived, and the countdown to your next birthday using the built-in "datetime" module.
 
 ---
 
-Author
+# Author
 Ayush Singh https://github.com/ayush893singh
