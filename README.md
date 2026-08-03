@@ -81,27 +81,6 @@ Next Birthday       : 2026-08-15
 Days Remaining      : 14 days
 
 ---
-
-Project Structure
-
-Birthday-Countdown/
-│
-├── main.py
-└── README.md
-
----
-
-Future Improvements
-
-- Display age in years, months, and days
-- Show the day of the week for the next birthday
-- Add zodiac sign calculation
-- Calculate the total hours, minutes, and seconds lived
-- Save birthday records to a file
-- Support multiple users
-
----
-
 Repository Name
 
 birthday-countdown-python
