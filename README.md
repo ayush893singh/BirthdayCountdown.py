@@ -81,12 +81,6 @@ Next Birthday       : 2026-08-15
 Days Remaining      : 14 days
 
 ---
-Repository Name
-
-birthday-countdown-python
-
----
-
 # Repository Description
 
 A simple Python application that calculates your age, total days lived, and the countdown to your next birthday using the built-in "datetime" module.
