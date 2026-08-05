@@ -2,6 +2,10 @@
 
 A simple Python project that calculates your current age, the total number of days you have lived, and the number of days remaining until your next birthday.
 
+# Repository Description
+
+A simple Python application that calculates your age, total days lived, and the countdown to your next birthday using the built-in "datetime" module.
+
 ---
 
 # Features
@@ -79,11 +83,6 @@ Current Age         : 20 years
 Days Lived on Earth : 7664 days
 Next Birthday       : 2026-08-15
 Days Remaining      : 14 days
-
----
-# Repository Description
-
-A simple Python application that calculates your age, total days lived, and the countdown to your next birthday using the built-in "datetime" module.
 
 ---
 
