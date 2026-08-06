@@ -72,17 +72,17 @@ python main.py
 
 ===== Birthday Countdown =====
 
-Enter your birth day (1-31): 15
-Enter your birth month (1-12): 8
-Enter your birth year: 2005
+Enter your birth day (1-31): 1
+Enter your birth month (1-12): 1
+Enter your birth year: 2007
 
 ===== Birthday Report =====
 
-Birth Date          : 2005-08-15
-Current Age         : 20 years
-Days Lived on Earth : 7664 days
-Next Birthday       : 2026-08-15
-Days Remaining      : 14 days
+Birth Date          : 2007-01-01
+Current Age         : 19 years
+Days Lived on Earth : 7157 days
+Next Birthday       : 2027-01-01
+Days Remaining      : 148 days
 
 ---
 
