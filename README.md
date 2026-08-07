@@ -23,7 +23,6 @@ A simple Python application that calculates your age, total days lived, and the 
 
 - Python
 - "datetime" Module
-
 ---
 
 # Concepts Used
@@ -45,7 +44,6 @@ This project uses:
 1. Install Python on your computer.
 2. Download or clone this repository.
 3. Open a terminal in the project folder.
-
 ---
 
 # How to Run
