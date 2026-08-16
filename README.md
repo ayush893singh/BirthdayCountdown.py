@@ -19,12 +19,6 @@ A simple Python application that calculates your age, total days lived, and the 
 
 ---
 
-# Technologies Used
-
-- Python
-- "datetime" Module
----
-
 # Concepts Used
 
 This project uses:
